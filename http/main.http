@@ -1,0 +1,22 @@
+@bASEURL=http://localhost:2020
+
+GET  {{bASEURL}}/users/21/AD
+
+#####
+
+GET  {{bASEURL}}/2020/user/
+
+{
+
+}
+
+#####
+GET  {{bASEURL}}/2020
+#####
+GET  {{bASEURL}}/2020
+#####
+GET  {{bASEURL}}/2020
+#####
+GET  {{bASEURL}}/2020
+#####
+
